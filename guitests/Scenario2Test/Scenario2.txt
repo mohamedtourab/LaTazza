@@ -1,0 +1,37 @@
+Click "{ImageFolder}/1558597555995.png" 79 72
+Click "{ImageFolder}/1558597571846.png" 79 79
+Click "{ImageFolder}/1558597593139.png" 35 69
+Click "{ImageFolder}/1558597609502.png" 88 70
+Type "20"
+Click "{ImageFolder}/1558597972827.png" 49 83
+
+Click "{ImageFolder}/1558597723050.png" 11 65
+Click "{ImageFolder}/1558597773258.png" 64 83
+
+Click "{ImageFolder}/1558592082240.png" 77 47
+Click "{ImageFolder}/1558595821822.png" 90 22
+
+Click "{ImageFolder}/1558595763669.png" 31 60
+
+Click "{ImageFolder}/1558595854503.png" 75 76
+Click "{ImageFolder}/1558595882815.png" 38 79
+Click "{ImageFolder}/1558598132352.png" 92 75
+
+Type "11"
+Click "{ImageFolder}/1558599087631.png" 50 22
+
+Click "{ImageFolder}/1558591900243.png"
+Check "{ImageFolder}/1558598336961.png" 0 0 297 101
+Click "{ImageFolder}/1558598353635.png" 51 87
+
+Check "{ImageFolder}/1558596511520.png" 0 0 255 66
+Click "{ImageFolder}/1558596898107.png" 55 82
+Check "{ImageFolder}/1558598495097.png" 8 74 163 33
+Check "{ImageFolder}/1558598495097.png" 9 166 128 29
+
+Click "{ImageFolder}/1558596942878.png" 73 69
+Click "{ImageFolder}/1558596971210.png" 39 81
+Check "{ImageFolder}/1558598562849.png" 0 0 384 47
+
+Click "{ImageFolder}/1558597069495.png" 97 52
+
