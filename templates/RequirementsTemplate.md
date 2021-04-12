@@ -425,7 +425,8 @@ Postcondition:  Attribute "Credits" is updated.
 
 # Glossary
 
-```plantuml
+
+@startuml
 class Person{
 +name
 +surname
@@ -472,7 +473,7 @@ class CapsulesSupplyOrder{
 +numberOfBoxes
 +date
 +amount
-}
+}	
 
 
 
@@ -509,7 +510,8 @@ CapsulesSell -- "1..*" Capsule
 Summary -- "*" Account: has in its table
 Summary -- "*" CapsulesSupplyOrder: records
 
-```
+@enduml
+
 A person, described by her name, surname and ID, can be an employee or a visitor. An employee can have an account, on which the number of credits or debts is recorded. Moreover, one of the employees is a manager. Anyone can request for a capsules sell, specifying the number of capsules of a certain type. The sell is under the control of the manager and it is linked to a payment record, described by a date and amount, and, in the case the buyer is an employee having an account, the number of debts and credits can be changed on it. The sell updates the summary, so the amount of cash account (in euro) and the number of capsules for each type. The update of the summary can be handled by the manager too.
 The manager can request a capsules supply, specifying the number of boxes of a certain type of 50 capsules. The payment is associated to a company's credit card.
 
